@@ -1,0 +1,7 @@
+.reproductions__text {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 427px;
+    margin-bottom: 30px;
+}

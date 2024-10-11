@@ -1,0 +1,16 @@
+.card__button {
+    width: 310px;
+    height: 65px;
+    background-color: #E1EDE6;
+    border: 1px solid #598D66;
+    padding: 0;
+    cursor: pointer;
+}
+
+.card__button:hover {
+    background-color: #598D66;
+}
+
+.card__button:hover .button__text {
+    color: #F3F5F4FF;
+}
